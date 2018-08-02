@@ -107,7 +107,7 @@
       <string notr="true"/>
      </property>
      <property name="decimals">
-      <number>12</number>
+      <number>8</number>
      </property>
      <property name="maximum">
       <double>9999999.999998999759555</double>
