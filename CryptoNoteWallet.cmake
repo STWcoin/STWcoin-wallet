@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "stwcoin")
+set(CN_CURRENCY_DISPLAY_NAME "STWcoin")
+set(CN_CURRENCY_TICKER "STW")
+set(CN_VERSION 1.0.0)
