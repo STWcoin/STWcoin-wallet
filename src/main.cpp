@@ -73,7 +73,7 @@ int main(int argc, char* argv[]) {
 
   //Create registry entries for URL execution
   QSettings karbowanecKey("HKEY_CLASSES_ROOT\\karbowanec", QSettings::NativeFormat);
-  karbowanecKey.setValue(".", "Karbo Wallet");
+  karbowanecKey.setValue(".", "STW Wallet");
   karbowanecKey.setValue("URL Protocol", "");
   QSettings karbowanecOpenKey("HKEY_CLASSES_ROOT\\karbowanec\\shell\\open\\command", QSettings::NativeFormat);
   karbowanecOpenKey.setValue(".", "\"" + QCoreApplication::applicationFilePath().replace("/", "\\") + "\" \"%1\"");

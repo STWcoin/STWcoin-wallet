@@ -838,7 +838,7 @@ Por favor aguarde...</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
+        <source>Welcome to STW Project Wallet!</source>
         <translation>Bem-vindo ao Karbo carteira!</translation>
     </message>
     <message>
@@ -1494,8 +1494,8 @@ Você quer ir à página de dowload?</translation>
         <translation>Execute o programa minimizado</translation>
     </message>
     <message>
-        <source>Karbo wallet</source>
-        <translation>Karbo wallet</translation>
+        <source>STW Wallet</source>
+        <translation>STW Wallet</translation>
     </message>
     <message>
         <source>External port for p2p network protocol (if port forwarding used with NAT)</source>
@@ -1689,8 +1689,8 @@ Você tem certeza?</translation>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
-        <translation>Karbo Wallet %1</translation>
+        <source>STW Wallet %1</source>
+        <translation>STW Wallet %1</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -1705,8 +1705,8 @@ Você tem certeza?</translation>
         <translation>Quantidade: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
-        <translation>Karbo Wallet</translation>
+        <source>STW Wallet</source>
+        <translation>STW Wallet</translation>
     </message>
     <message>
         <source>New transaction received</source>

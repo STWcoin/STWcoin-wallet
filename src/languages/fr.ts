@@ -842,8 +842,8 @@ S&apos;il vous plaît, patientez...</translation>
         <translation type="unfinished">Cadre</translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
-        <translation>Bienvenue sur Karbo Wallet!</translation>
+        <source>Welcome to STW Project Wallet!</source>
+        <translation>Bienvenue sur STW Wallet!</translation>
     </message>
     <message>
         <source>Create wallet</source>
@@ -1693,7 +1693,7 @@ Are you sure?</source>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
+        <source>STW Wallet %1</source>
         <translation>Karbo Portefeuille %1</translation>
     </message>
     <message>
@@ -1709,7 +1709,7 @@ Are you sure?</source>
         <translation>Montant total: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
+        <source>STW Wallet</source>
         <translation>Portefeuille Karbo</translation>
     </message>
     <message>

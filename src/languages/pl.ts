@@ -818,7 +818,7 @@ Proszę czekać...</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
+        <source>Welcome to STW Project Wallet!</source>
         <translation>Witaj w portfelu Karbowańca!</translation>
     </message>
     <message>
@@ -1673,7 +1673,7 @@ Jesteś pewien?</translation>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
+        <source>STW Wallet %1</source>
         <translation>Karbowaneć v. %1</translation>
     </message>
     <message numerus="yes">
@@ -1697,7 +1697,7 @@ Jesteś pewien?</translation>
         <translation>Kwota: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
+        <source>STW Wallet</source>
         <translation>Karbowaniec</translation>
     </message>
     <message>

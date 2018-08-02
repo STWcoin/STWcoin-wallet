@@ -827,7 +827,7 @@ Bitte warten...</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
+        <source>Welcome to STW Project Wallet!</source>
         <translation>Willkommen bei Karbo Brieftasche!</translation>
     </message>
     <message>
@@ -1681,7 +1681,7 @@ Bist du sicher?</translation>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
+        <source>STW Wallet %1</source>
         <translation>Karbo Brieftasche %1</translation>
     </message>
     <message>
@@ -1697,8 +1697,8 @@ Bist du sicher?</translation>
         <translation>Total Betrag: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
-        <translation>Karbo Wallet</translation>
+        <source>STW Wallet</source>
+        <translation>STW Wallet</translation>
     </message>
     <message>
         <source>New transaction received</source>

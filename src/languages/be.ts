@@ -822,7 +822,7 @@ Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
+        <source>Welcome to STW Project Wallet!</source>
         <translation>Сардэчна запрашаем у гаманец Карбованця!</translation>
     </message>
     <message>
@@ -1677,7 +1677,7 @@ Are you sure?</source>
         </translation>
     </message>
     <message>
-        <source>Karbo Wallet %1</source>
+        <source>STW Wallet %1</source>
         <translation>Карбованець в. %1</translation>
     </message>
     <message numerus="yes">
@@ -1701,7 +1701,7 @@ Are you sure?</source>
         <translation>Сума: %1, хэш: %2</translation>
     </message>
     <message>
-        <source>Karbo Wallet</source>
+        <source>STW Wallet</source>
         <translation>Карбованець</translation>
     </message>
     <message>

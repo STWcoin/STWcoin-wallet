@@ -936,7 +936,7 @@ Please wait...</source>
     </message>
     <message>
         <location filename="../gui/ui/nowalletframe.ui" line="62"/>
-        <source>Welcome to Karbo Wallet!</source>
+        <source>Welcome to STW Project Wallet!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1751,7 +1751,7 @@ Do you want to go to download page?</source>
     <message>
         <location filename="../gui/MainWindow.cpp" line="134"/>
         <location filename="../gui/MainWindow.cpp" line="1009"/>
-        <source>Karbo Wallet %1</source>
+        <source>STW Wallet %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
